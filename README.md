@@ -1,4 +1,4 @@
-# [TODO: Project Name] — Lost & Found Feed
+# [JupGo] — Lost & Found Feed
 
 Browse recently found items in Korea as a simple feed, instead of searching for one specific item.
 
@@ -93,7 +93,7 @@ Then open `http://localhost:8000` in your browser.
 ## Team
 
 | Role | Member | Responsibility |
-|---|---|---|
+| --- | --- | --- |
 | Data | @uyeonee | Fetch found-item data from the API, parse and clean it |
 | Map | @ogang9999 | Show storage places on a map |
 | Filter | @ITM-MSJ | Filter by region, date, and item type |
