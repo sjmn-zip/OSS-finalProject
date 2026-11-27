@@ -25,13 +25,6 @@ def get_coords(place_name):
     y = float(docs[0]["y"])
 
     return (y, x)
-
-
-print(get_coords("서울 시청"))
-
-
-
-#
 # {
 #   "documents": [                 # list of results (up to 15 by default, sorted by relevance)
 #     {
