@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <header>
+    <resultCode>00</resultCode>
+    <resultMsg>NORMAL SERVICE.</resultMsg>
+  </header>
+  <body>
+    <items>
+      <item>
+        <atcId>F2026112000001</atcId>
+        <fdSn>2</fdSn>
+        <fdPrdtNm>  검정색 반지갑  </fdPrdtNm>
+        <fdSbjt>검정색 반지갑을 습득하여 보관하고 있습니다.</fdSbjt>
+        <prdtClNm>지갑 &gt; 남성용 지갑</prdtClNm>
+        <clrNm>검정색</clrNm>
+        <fdYmd>2026-11-20</fdYmd>
+        <depPlace>서울강남경찰서</depPlace>
+        <fdFilePathImg>https://example.com/img/wallet.jpg</fdFilePathImg>
+      </item>
+      <item>
+        <atcId></atcId>
+        <fdPrdtNm>ID 없는 항목</fdPrdtNm>
+      </item>
+      <item>
+        <atcId>F2026112100002</atcId>
+        <fdPrdtNm>   </fdPrdtNm>
+      </item>
+      <item>
+        <atcId>F2026112200003</atcId>
+        <fdPrdtNm>신한카드</fdPrdtNm>
+        <prdtClNm>카드 &gt; 신용(체크)카드</prdtClNm>
+        <fdYmd>2026-11-22</fdYmd>
+        <depPlace>서울종로경찰서</depPlace>
+        <fdFilePathImg>https://example.com/img/card.jpg</fdFilePathImg>
+      </item>
+      <item>
+        <atcId>F2026112300004</atcId>
+        <fdSn>1</fdSn>
+        <fdPrdtNm>흰색 무선이어폰</fdPrdtNm>
+        <prdtClNm>전자기기 &gt; 무선이어폰</prdtClNm>
+        <fdFilePathImg>https://www.lost112.go.kr/lostnfs/images/sub/img02_no_img.gif</fdFilePathImg>
+      </item>
+    </items>
+    <totalCount>57</totalCount>
+  </body>
+</response>
